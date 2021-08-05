@@ -1,0 +1,13 @@
+li {
+    color: black;
+    padding: 5px;
+}
+
+li label {
+    font-weight: 600;
+    cursor: pointer;
+}
+
+li label:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,6 @@
+.board {
+    display: grid;
+    grid-template-columns: min-content min-content min-content;
+    margin: 10px;
+    justify-content: center;
+}

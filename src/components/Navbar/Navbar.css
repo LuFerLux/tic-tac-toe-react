@@ -1,0 +1,14 @@
+.navbar {
+    background-color: #184fb2;
+    text-align: center;
+    padding: 10px 20px;
+}
+
+.navbar h2 {
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0;
+    padding: 0  ;
+}

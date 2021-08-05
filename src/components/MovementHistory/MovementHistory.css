@@ -1,0 +1,18 @@
+.movement-history {
+    border: 1px solid #4169e1bf;
+}
+
+.history-title {
+    background: #4169e1bf;
+    padding: 0.5rem;
+    color: white;
+}
+
+.history-title h3 {
+    margin: 0;
+}
+
+.history-body {
+    list-style: none;
+    padding-left: 15px;
+}
